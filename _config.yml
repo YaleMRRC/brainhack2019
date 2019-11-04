@@ -1,0 +1,19 @@
+# Site settings
+title: Yale Brainhack 2019
+description: November 14th and 15th \n NeuroImprov!
+baseurl: "brainhack2019" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: Yale Brainkhack 2019
+user_description: Welcome to Yale Brainhack 2019! See below for location and timetable
+user_title: November 14th and 15th
+email: dave.oconnor@yale.edu
+github_username:  YaleMRRC
+
+
+# Google-analytics
+google-analytics:
+  id: ""
+
+exclude: ['package.json', 'src' , 'node_modules']
